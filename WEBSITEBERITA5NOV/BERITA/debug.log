@@ -1,0 +1,66 @@
+INFO 2025-11-05 15:02:19,537 autoreload Watching for file changes with StatReloader
+INFO 2025-11-05 15:04:11,099 autoreload Watching for file changes with StatReloader
+INFO 2025-11-05 15:05:44,033 autoreload Watching for file changes with StatReloader
+INFO 2025-11-05 15:06:53,762 autoreload C:\Users\MyBook Hype AMD\Desktop\WEBSITEBERITA5NOV\BERITA\BERITA\settings.py changed, reloading.
+INFO 2025-11-05 15:06:56,755 autoreload Watching for file changes with StatReloader
+INFO 2025-11-05 15:07:36,954 autoreload C:\Users\MyBook Hype AMD\Desktop\WEBSITEBERITA5NOV\BERITA\BERITA\settings.py changed, reloading.
+INFO 2025-11-05 15:07:39,865 autoreload Watching for file changes with StatReloader
+INFO 2025-11-05 15:10:38,802 autoreload Watching for file changes with StatReloader
+ERROR 2025-11-05 15:10:43,076 basehttp "GET / HTTP/1.1" 500 59
+ERROR 2025-11-05 15:10:47,491 basehttp "GET /api/ HTTP/1.1" 500 59
+ERROR 2025-11-05 15:10:48,604 basehttp "GET /api/ HTTP/1.1" 500 59
+ERROR 2025-11-05 15:11:00,845 basehttp "GET /api/ HTTP/1.1" 500 59
+ERROR 2025-11-05 15:11:03,047 basehttp "GET /fijfiow HTTP/1.1" 500 59
+INFO 2025-11-05 15:11:50,886 autoreload Watching for file changes with StatReloader
+ERROR 2025-11-05 15:11:54,096 basehttp "GET / HTTP/1.1" 500 59
+ERROR 2025-11-05 15:12:00,805 basehttp "GET /api/ HTTP/1.1" 500 59
+ERROR 2025-11-05 15:12:52,286 basehttp "GET /admin/ HTTP/1.1" 500 59
+INFO 2025-11-05 15:13:37,601 autoreload C:\Users\MyBook Hype AMD\Desktop\WEBSITEBERITA5NOV\BERITA\FITURBERITA\views.py changed, reloading.
+INFO 2025-11-05 15:13:40,890 autoreload Watching for file changes with StatReloader
+INFO 2025-11-05 15:15:10,433 autoreload C:\Users\MyBook Hype AMD\Desktop\WEBSITEBERITA5NOV\BERITA\FITURBERITA\views.py changed, reloading.
+INFO 2025-11-05 15:15:13,898 autoreload Watching for file changes with StatReloader
+ERROR 2025-11-05 15:15:25,442 basehttp "GET /admin/ HTTP/1.1" 500 59
+INFO 2025-11-05 15:18:37,976 autoreload Watching for file changes with StatReloader
+ERROR 2025-11-05 15:18:41,943 basehttp "GET / HTTP/1.1" 500 59
+ERROR 2025-11-05 15:18:48,834 basehttp "GET /api/ HTTP/1.1" 500 59
+INFO 2025-11-05 15:22:46,514 autoreload Watching for file changes with StatReloader
+INFO 2025-11-05 15:23:05,341 autoreload C:\Users\MyBook Hype AMD\Desktop\WEBSITEBERITA5NOV\BERITA\BERITA\settings.py changed, reloading.
+INFO 2025-11-05 15:23:08,174 autoreload Watching for file changes with StatReloader
+INFO 2025-11-05 15:23:33,086 autoreload C:\Users\MyBook Hype AMD\Desktop\WEBSITEBERITA5NOV\BERITA\FITURBERITA\__init__.py changed, reloading.
+INFO 2025-11-05 15:23:36,308 autoreload Watching for file changes with StatReloader
+ERROR 2025-11-05 15:23:40,232 basehttp "GET / HTTP/1.1" 500 59
+INFO 2025-11-05 15:24:42,598 autoreload Watching for file changes with StatReloader
+ERROR 2025-11-05 15:24:49,921 basehttp "GET / HTTP/1.1" 500 59
+INFO 2025-11-05 15:27:32,208 autoreload Watching for file changes with StatReloader
+ERROR 2025-11-05 15:27:37,424 basehttp "GET / HTTP/1.1" 500 59
+ERROR 2025-11-05 15:27:49,082 basehttp "GET /api/ HTTP/1.1" 500 59
+INFO 2025-11-05 15:31:11,781 autoreload Watching for file changes with StatReloader
+INFO 2025-11-05 15:31:35,655 autoreload C:\Users\MyBook Hype AMD\Desktop\WEBSITEBERITA5NOV\BERITA\BERITA\settings.py changed, reloading.
+INFO 2025-11-05 15:31:38,780 autoreload Watching for file changes with StatReloader
+WARNING 2025-11-05 15:31:43,486 log Not Found: /
+WARNING 2025-11-05 15:31:43,488 basehttp "GET / HTTP/1.1" 404 3142
+INFO 2025-11-05 15:31:47,993 basehttp "GET /api/ HTTP/1.1" 200 5458
+INFO 2025-11-05 15:31:53,233 basehttp "GET /api/BERITA/ HTTP/1.1" 200 12070
+INFO 2025-11-05 15:32:17,831 basehttp "POST /api/BERITA/ HTTP/1.1" 201 10608
+INFO 2025-11-05 15:32:25,047 basehttp "GET /api/BERITA/ HTTP/1.1" 200 12547
+INFO 2025-11-05 15:32:36,896 basehttp "GET /api/BERITA/?judul=aku HTTP/1.1" 200 12681
+WARNING 2025-11-05 15:35:13,318 log Not Found: /api/berita/
+WARNING 2025-11-05 15:35:13,319 basehttp "GET /api/berita/ HTTP/1.1" 404 8658
+WARNING 2025-11-05 15:35:16,642 log Not Found: /api/berita/
+WARNING 2025-11-05 15:35:16,644 basehttp "GET /api/berita/ HTTP/1.1" 404 8658
+WARNING 2025-11-05 15:35:16,848 log Not Found: /api/berita/
+WARNING 2025-11-05 15:35:16,850 basehttp "GET /api/berita/ HTTP/1.1" 404 8658
+WARNING 2025-11-05 15:35:19,526 log Not Found: /api/berita/
+WARNING 2025-11-05 15:35:19,528 basehttp "GET /api/berita/ HTTP/1.1" 404 8658
+INFO 2025-11-05 15:35:20,630 basehttp "GET /api/ HTTP/1.1" 200 5458
+INFO 2025-11-05 15:35:23,394 basehttp "GET /api/BERITA/ HTTP/1.1" 200 12547
+INFO 2025-11-05 15:36:01,932 basehttp "POST /api/BERITA/ HTTP/1.1" 201 10624
+INFO 2025-11-05 15:36:12,548 basehttp "GET /api/BERITA/ HTTP/1.1" 200 13036
+INFO 2025-11-05 15:36:24,412 basehttp "GET /api/BERITA/?judul=cinta HTTP/1.1" 200 13192
+INFO 2025-11-05 15:41:01,638 autoreload C:\Users\MyBook Hype AMD\Desktop\WEBSITEBERITA5NOV\BERITA\BERITA\settings.py changed, reloading.
+INFO 2025-11-05 15:41:05,141 autoreload Watching for file changes with StatReloader
+INFO 2025-11-05 15:41:05,861 basehttp "GET /api/BERITA/?judul=cinta HTTP/1.1" 200 13192
+INFO 2025-11-05 15:41:56,808 basehttp "GET /api/BERITA/?search=cinta HTTP/1.1" 200 12719
+INFO 2025-11-05 15:42:14,740 basehttp "GET /api/BERITA/?search=benci HTTP/1.1" 200 12735
+INFO 2025-11-05 15:44:06,936 basehttp "GET /api/BERITA/?search=cinta HTTP/1.1" 200 12719
+INFO 2025-11-05 15:44:14,176 basehttp "GET /api/BERITA/?search=sayang HTTP/1.1" 200 12254
